@@ -10,8 +10,8 @@
               "iamRole": "arn:aws:iam::575460785266:role/ask-lambda-alexa-skill-wot-1588654314471",
               "lambda": {
                 "arn": "arn:aws:lambda:us-east-1:575460785266:function:ask-alexa-skill-wot-default-default-1588654322297",
-                "lastModified": "2020-05-05T04:54:00.074+0000",
-                "revisionId": "65758756-84d2-41ae-afce-ce74c4c855ec"
+                "lastModified": "2020-05-05T15:38:58.869+0000",
+                "revisionId": "5027db5d-308b-4eb3-9b7f-8802cbfc271e"
               }
             }
           }
