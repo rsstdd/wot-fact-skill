@@ -7,18 +7,18 @@
         "@ask-cli/lambda-deployer": {
           "deployState": {
             "default": {
-              "iamRole": "arn:aws:iam::575460785266:role/ask-lambda-alexa-skill-wot-1588654314471",
+              "iamRole": "arn:aws:iam::575460785266:role/service-role/alexa-skill-wot-role-1ivil9zl",
               "lambda": {
-                "arn": "arn:aws:lambda:us-east-1:575460785266:function:ask-alexa-skill-wot-default-default-1588654322297",
-                "lastModified": "2020-05-05T15:38:58.869+0000",
-                "revisionId": "5027db5d-308b-4eb3-9b7f-8802cbfc271e"
+                "arn": "arn:aws:lambda:us-east-1:575460785266:function:alexa-skill-wot",
+                "lastModified": "2020-05-07T14:25:14.292+0000",
+                "revisionId": "2a0c1328-f3d3-483c-ac75-60bcbeef1dd5"
               }
             }
           }
         }
       },
       "skillMetadata": {
-        "lastDeployHash": "24gu9qsKM4zdi+ZiIOwHatR7Bb8="
+        "lastDeployHash": "HDYLKcyJHPjvY37xGynrVqQ7UA0="
       },
       "code": {
         "default": {}

@@ -1,7 +1,3 @@
-// Alexa Fact Skill - Sample for Beginners
-//
-
-// sets up dependencies
 const Alexa = require("ask-sdk-core");
 
 const GetNewFactHandler = require("./handlers/getNewFactHandler");

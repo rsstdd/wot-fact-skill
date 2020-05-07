@@ -202,7 +202,7 @@
     "apis": {
       "custom": {
         "endpoint": {
-          "uri": "arn:aws:lambda:us-east-1:575460785266:function:ask-alexa-skill-wot-default-default-1588654322297"
+          "uri": "arn:aws:lambda:us-east-1:575460785266:function:alexa-skill-wot"
         }
       }
     },
