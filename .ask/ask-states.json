@@ -10,15 +10,15 @@
               "iamRole": "arn:aws:iam::575460785266:role/service-role/alexa-skill-wot-role-1ivil9zl",
               "lambda": {
                 "arn": "arn:aws:lambda:us-east-1:575460785266:function:alexa-skill-wot",
-                "lastModified": "2020-05-07T14:25:14.292+0000",
-                "revisionId": "2a0c1328-f3d3-483c-ac75-60bcbeef1dd5"
+                "lastModified": "2020-05-13T14:19:23.922+0000",
+                "revisionId": "a7e03b88-ba7b-41c8-adf9-308ee128ae51"
               }
             }
           }
         }
       },
       "skillMetadata": {
-        "lastDeployHash": "HDYLKcyJHPjvY37xGynrVqQ7UA0="
+        "lastDeployHash": "7cwZuqGL7BxmccfYfS+k5dXFyvI="
       },
       "code": {
         "default": {}
