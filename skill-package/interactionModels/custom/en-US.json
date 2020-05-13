@@ -1,19 +1,29 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "space facts",
+      "invocationName": "wheel of time character dictionary",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
-          "samples": []
+          "samples": ["cancel", "cancel that", "stop", "ok"]
         },
         {
           "name": "AMAZON.HelpIntent",
-          "samples": []
+          "samples": [
+            "help",
+            "i need help",
+            "help me out",
+            "what can you do",
+            "tell me what to do"
+          ]
         },
         {
           "name": "AMAZON.StopIntent",
-          "samples": []
+          "samples": ["stop", "stop it", "be quiet"]
+        },
+        {
+          "name": "AMAZON.RepeatIntent",
+          "samples": ["repeat", "say that again", "what"]
         },
         {
           "name": "AMAZON.FallbackIntent",
